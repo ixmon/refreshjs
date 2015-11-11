@@ -1,0 +1,30 @@
+{
+  "name": "refreshjs",
+  "version": "0.0.0",
+  "description": "An unobtrusive clientside Javascript, CSS, and Image reloader.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ixmon/refreshjs"
+  },
+  "keywords": [
+    "refreshjs",
+    "reloadjs",
+    "live-reload"
+  ],
+  "author": "Hayden Rowe",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/ixmon/refreshjs/issues"
+  },
+  "devDependencies": {
+    "gulp-rename": "~1.2.2",
+    "gulp-cssmin": "~0.1.7",
+    "gulp-util": "~3.0.7",
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.6.0"
+  }
+}
